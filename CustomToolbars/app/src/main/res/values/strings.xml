@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Toolbars</string>
+    <string name="play_ground">Nature</string>
+    <string name="football">Football</string>
+    <string name="smarty_s">Smarty\'s</string>
+    <string name="the_forest">The Forest</string>
+    <string name="avengers">Avengers</string>
+    <string name="covid_19">COVID-19</string>
+</resources>
